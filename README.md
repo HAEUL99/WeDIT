@@ -7,7 +7,6 @@ Spring 2022 Capstone project (Multiplayer video game)
 - 클리어 조건: 각 스테이지의 미션을 수행하여, 엔딩 스테이지까지 도달한다
 
 ## 사용 Package
-#### 계정별로 다운 받아야할 Asset 목록이 다름.
 #### Unity Asset Store에서 다운 
 - POLYGON Farm Pack - Low Poly 3D Art by Synty
 - Polyverse Skies | Low Poly Skybox
@@ -15,7 +14,6 @@ Spring 2022 Capstone project (Multiplayer video game)
 
 ## 서버 연동
 - Photon Bolt
-
 
 ## 시연 영상
 - 추후 추가 예정
